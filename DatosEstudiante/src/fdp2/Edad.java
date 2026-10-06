@@ -31,7 +31,7 @@ public class Edad {
 		
 		System.out.print("Programa Ejecutado");
 	System.out.print("Hola mundo");
-	
+	System.out.print("hola");
 	}
 	
 }
